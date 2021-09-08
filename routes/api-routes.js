@@ -1,5 +1,7 @@
 const app = require("express").Router(); // requires only the router function from express
+const fs = require('fs');
 let db = require('../db/db.json');
+
 
 app.get("/api/notes", function (req, res) {
     db = JSON.parse(fs.readFileSync("./db/db.json"))
@@ -36,3 +38,5 @@ app.delete("/api/notes/:id", function (req, res) {
     console.log("DELETE", db)
     res.json(db)
 })
+
+module.exports = app;
