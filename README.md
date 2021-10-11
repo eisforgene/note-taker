@@ -28,5 +28,5 @@ Express, Javascript, HTML, CSS
 [Challenge-Video-Demo](https://watch.screencastify.com/v/WL1IKPaj770ZkA7vyeaG)
 
 ##### Screenshot: 
-[Screenshot](https://github.com/eisforgene/note-taker/blob/main/screenshot/note-taker-1.JPG) - Create
-[Screenshot](https://github.com/eisforgene/note-taker/blob/main/screenshot/note-taker-2.JPG) - Delete
+![Screenshot](https://github.com/eisforgene/note-taker/blob/main/screenshot/note-taker-1.JPG)
+![Screenshot](https://github.com/eisforgene/note-taker/blob/main/screenshot/note-taker-2.JPG)
